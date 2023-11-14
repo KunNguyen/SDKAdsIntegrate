@@ -10,7 +10,7 @@
         "unity"
     ],
     "dependencies": {
-    "com.unity.mathematics": "*"
+    "com.unity.mathematics": "1.*"
     },
     "author:": {
     	"name": "minhnguyen",
