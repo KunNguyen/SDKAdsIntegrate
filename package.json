@@ -9,6 +9,9 @@
         "sdk",
         "unity"
     ],
+    "dependencies": {
+    "com.unity.mathematics": "1.0.0"
+    },
     "author:": {
     	"name": "minhnguyen",
     	"url": "https://github.com/minhnh1210/"
